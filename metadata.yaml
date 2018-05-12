@@ -1,0 +1,40 @@
+_repo: The-Poems-and-Fragments-of-Catullus--13-Translated-in-the-Metres-of-the-Original_18867
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ellis, Robinson
+    alias: Ellis, R. (Robinson)
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '8309'
+    url: http://www.gutenberg.org/2009/agents/8309
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Catullus, Gaius Valerius
+    alias: Catullus, Caius Valerius
+    birthdate: -84
+    deathdate: -54
+    gutenberg_agent_id: '8308'
+    url: http://www.gutenberg.org/2009/agents/8308
+    wikipedia: http://en.wikipedia.org/wiki/Catullus
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2006-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catullus, Gaius Valerius -- Translations into English'
+- !lcsh 'Love poetry, Latin -- Translations into English'
+- !lcsh 'Epigrams, Latin -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Rome -- Poetry'
+title: "The Poems and Fragments of Catullus\r\nTranslated in the Metres of the Original"
+url: http://www.gutenberg.org/ebooks/18867
